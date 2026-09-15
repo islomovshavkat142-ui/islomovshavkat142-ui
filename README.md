@@ -1,16 +1,63 @@
-## Hi there 👋
+# ИСЛОМОВ ШАВКАТ
+Junior Full-Stack Developer (Python / Django)
 
-<!--
-**islomovshavkat142-ui/islomovshavkat142-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Локация: Самарканд, Узбекистан
+Телефон: +998 91 539 42 34
+Email: islomovshavkat142@gmail.com
+Telegram: @Shava_code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+О СЕБЕ
+Junior Full-Stack Developer с практическим опытом разработки коммерческих веб-сайтов. Работаю с Python, Django, PostgreSQL, JavaScript, HTML и CSS. Разрабатывал проекты самостоятельно — от структуры и интерфейса до backend, базы данных, мультиязычности и динамического управления контентом через Django Admin. Имею опыт взаимодействия с заказчиками, сбора требований и реализации индивидуальных решений.
+
+---
+
+ТЕХНИЧЕСКИЕ НАВЫКИ
+* Backend: Python, Django, REST API
+* Frontend: HTML5, CSS3, JavaScript, Bootstrap
+* Database: PostgreSQL
+* Инструменты: Django Admin, i18n, Telegram Bot API, Git, Gunicorn, Nginx, Linux (Ubuntu)
+
+---
+
+КОММЕРЧЕСКИЕ ПРОЕКТЫ
+
+SHOHA KOSTUM — сайт по индивидуальному пошиву
+Стек: Python, Django, HTML, CSS, JavaScript, Telegram Bot
+Примечание: В данный момент сайт недоступен из-за неоплаченного заказчиком хостинга. Исходный код открыт и доступен в репозитории.
+* Разработал коммерческий сайт для компании по индивидуальному пошиву одежды.
+* Реализовал backend на Django и базу данных клиентов и заказов.
+* Создал пользовательскую часть сайта на HTML, CSS и JavaScript.
+* Разработал Telegram-бота для передачи заказов заказчику и связал его с backend.
+
+ARCH-VISION — корпоративный веб-сайт
+Стек: Python, Django, PostgreSQL, HTML, CSS, JavaScript, i18n
+Сайт: https://archvision.uz
+Примечание: Исходный код проекта находится в приватном репозитории, поскольку проект принадлежит заказчику.
+* Разработал корпоративный сайт проектно-инженерной компании.
+* Реализовал мультиязычность на 4 языках (i18n).
+* Разработал backend и базу данных на Django/PostgreSQL.
+* Реализовал разделы «О компании», «Услуги», «Проекты», «Вакансии» и «Контакты».
+* Создал детализированный каталог услуг с перечнем необходимых документов и состава проекта.
+* Реализовал добавление и редактирование проектов и вакансий через Django Admin.
+
+SCRIBER Engineering Arts — корпоративный веб-сайт
+Стек: Python, Django, PostgreSQL, HTML, CSS, JavaScript, i18n
+Сайт: https://searts.uz
+Примечание: Исходный код проекта находится в приватном репозитории, поскольку проект принадлежит заказчику.
+* Разработал корпоративный сайт инженерной компании на основе требований заказчика.
+* Реализовал мультиязычность на 3 языках (i18n).
+* Создал динамические разделы «Услуги», «Партнёры», «Проекты», «Сертификаты» и «Отдел обучения».
+* Реализовал управление проектами, сертификатами и материалами через Django Admin.
+* Реализовал раздел партнёров с внешними ссылками и информацией о компаниях.
+
+---
+
+ОБРАЗОВАНИЕ
+* IT Step Academy — Диплом по специальности Python Developer
+
+ЯЗЫКИ
+* Русский: Свободно
+* Узбекский: Свободно
+* Английский: B2
