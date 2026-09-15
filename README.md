@@ -14,10 +14,10 @@ Junior Full-Stack Developer с практическим опытом разра�
 ---
 
 ТЕХНИЧЕСКИЕ НАВЫКИ
-* Backend: Python, Django, REST API
-* Frontend: HTML5, CSS3, JavaScript, Bootstrap
+* Backend: Python, Django, 
+* Frontend: HTML5, CSS3, JavaScript, 
 * Database: PostgreSQL
-* Инструменты: Django Admin, i18n, Telegram Bot API, Git, Gunicorn, Nginx, Linux (Ubuntu)
+* Инструменты: Django Admin, i18n, Telegram Bot API, Git, Gunicorn, Nginx
 
 ---
 
