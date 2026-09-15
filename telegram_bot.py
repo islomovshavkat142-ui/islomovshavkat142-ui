@@ -2,9 +2,6 @@ import os
 import django
 import asyncio
 import re
-
-# --- 1. НАСТРОЙКА DJANGO ---
-# Убедись, что 'myproject.settings' совпадает с названием твоего проекта
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myproject.settings')
 django.setup()
 
@@ -15,9 +12,9 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 from asgiref.sync import sync_to_async
 
-# --- 2. ИНИЦИАЛИЗАЦИЯ ---
-API_TOKEN = '8747793908:AAFw4WKnO9LSeR94ZSvFQzcASFZmxtFp8So'
-ADMIN_ID = 370584663  # ID закройщика добавлен
+
+API_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+ADMIN_ID = 370584663  
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
@@ -36,8 +33,6 @@ class OrderSteps(StatesGroup):
     measure_6 = State()
     waiting_for_address = State()
 
-
-# --- КЛАВИАТУРЫ ---
 def get_main_kb():
     return ReplyKeyboardMarkup(
         keyboard=[[KeyboardButton(text="Начать заказ")], [KeyboardButton(text="Начать заново")]],
